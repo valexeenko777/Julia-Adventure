@@ -1,0 +1,28 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 720M           (ID=0x1298)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   10.18.13.5946
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Jullia Adventure\Jullia Adventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Jullia Adventure\Jullia Adventure_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Jullia Adventure\Jullia Adventure_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.395232 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16ec -> priority: 1 
+  Thread -> id: 1630 -> priority: 1 
